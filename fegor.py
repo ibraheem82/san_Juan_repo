@@ -1,1 +1,1 @@
-console.log("Hello my name is Fegor")
+print("Hello my name is Fegor")
